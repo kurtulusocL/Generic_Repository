@@ -1,0 +1,12 @@
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\bin\Debug\net8.0\GenericRepository.Core.deps.json
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\bin\Debug\net8.0\GenericRepository.Core.dll
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\bin\Debug\net8.0\GenericRepository.Core.pdb
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\obj\Debug\net8.0\GenericRepository.Core.csproj.AssemblyReference.cache
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\obj\Debug\net8.0\GenericRepository.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\obj\Debug\net8.0\GenericRepository.Core.AssemblyInfoInputs.cache
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\obj\Debug\net8.0\GenericRepository.Core.AssemblyInfo.cs
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\obj\Debug\net8.0\GenericRepository.Core.csproj.CoreCompileInputs.cache
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\obj\Debug\net8.0\GenericRepository.Core.dll
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\obj\Debug\net8.0\refint\GenericRepository.Core.dll
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\obj\Debug\net8.0\GenericRepository.Core.pdb
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Core\obj\Debug\net8.0\ref\GenericRepository.Core.dll

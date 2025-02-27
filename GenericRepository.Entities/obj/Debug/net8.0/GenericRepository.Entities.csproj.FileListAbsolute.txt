@@ -1,0 +1,17 @@
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\bin\Debug\net8.0\GenericRepository.Entities.deps.json
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\bin\Debug\net8.0\GenericRepository.Entities.runtimeconfig.json
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\bin\Debug\net8.0\GenericRepository.Entities.dll
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\bin\Debug\net8.0\GenericRepository.Entities.pdb
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\bin\Debug\net8.0\GenericRepository.Core.dll
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\bin\Debug\net8.0\GenericRepository.Core.pdb
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\GenericRepository.Entities.csproj.AssemblyReference.cache
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\GenericRepository.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\GenericRepository.Entities.AssemblyInfoInputs.cache
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\GenericRepository.Entities.AssemblyInfo.cs
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\GenericRepository.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\GenericR.7467078C.Up2Date
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\GenericRepository.Entities.dll
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\refint\GenericRepository.Entities.dll
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\GenericRepository.Entities.pdb
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\GenericRepository.Entities.genruntimeconfig.cache
+C:\Users\kurtu\OneDrive\Masaüstü\GenericRepository\GenericRepository.Entities\obj\Debug\net8.0\ref\GenericRepository.Entities.dll

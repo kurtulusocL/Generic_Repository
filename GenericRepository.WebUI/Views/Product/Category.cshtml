@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Product>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<p>
+				<a asp-action="Create">Create New</a>
+			</p>
+			<table class="table table-hover">
+				<thead>
+					<tr>
+						<th>
+							Product Name
+						</th>
+						<th>
+							Description
+						</th>
+						<th>
+							Unit In Stock
+						</th>
+						<th>
+							Price
+						</th>
+						<th>Category</th>
+						<th>Warehouse</th>
+						<th>
+							Created Date
+						</th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model)
+					{
+						<tr>
+							<td>
+								@item.Name
+							</td>
+							<td>
+								@item.Desc
+							</td>
+							<td>@item.UnitInStock</td>
+							<td>@item.Price</td>
+							<td>
+								@item.Category.Name
+							</td>
+							<td>
+								<a asp-controller="Product" asp-action="Warehouse" asp-route-id="@item.WarehouseId" class="btn btn-link">
+									@item.Warehouse.City, @item.Warehouse.Country
+								</a>
+							</td>
+							<td>
+								@item.CreatedDate.ToShortDateString()
+							</td>
+							<td>
+								<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+								<a asp-action="Detail" asp-route-id="@item.Id">Details</a> |
+								<a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
